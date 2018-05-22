@@ -1,0 +1,12 @@
+/* PHASE 8: Thumbs */
+.random {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.thumb img{
+  display: block;
+  position: relative;
+  width: 58px;
+  height: 58px;
+}
